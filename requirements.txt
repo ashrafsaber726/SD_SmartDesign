@@ -6,3 +6,4 @@ torchaudio
 nest_asyncio
 Pillow
 requests
+transformers
