@@ -1,0 +1,6 @@
+diffusers[torch]
+torch
+torchvision
+torchaudio
+nest_asyncio
+Pillow
