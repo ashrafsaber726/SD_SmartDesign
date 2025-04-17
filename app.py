@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 from diffusers import StableDiffusionPipeline
 import torch
 import nest_asyncio
+import huggingface_hub
 
 nest_asyncio.apply()
 

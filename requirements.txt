@@ -1,10 +1,9 @@
-Flask
-diffusers[torch]
+flask
 torch
 torchvision
 torchaudio
+diffusers[torch]
+transformers
+huggingface_hub
 nest_asyncio
 Pillow
-requests
-transformers
-huggingface_hub[hf_xet]
